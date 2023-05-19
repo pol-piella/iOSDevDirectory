@@ -1722,7 +1722,7 @@
           {
             "title": "Geri Borbás's Blog",
             "author": "Geri Borbás",
-            "site_url": "https://blog.eppz.eu",
+            "site_url": "http://blog.eppz.eu/wp-admin/setup-config.php",
             "feed_url": "https://blog.eppz.eu/feed/",
             "twitter_url": "https://twitter.com/Geri_Borbas"
           },
@@ -2431,7 +2431,7 @@
             "title": "Lord Codes",
             "author": "Andrew Lord",
             "site_url": "https://www.lordcodes.com/ios/",
-            "feed_url": "https://www.lordcodes.com/feeds/ios.xml",
+            "feed_url": "https://www.lordcodes.com/ios/rss.xml",
             "twitter_url": "https://twitter.com/lordcodes"
           },
           {
@@ -5593,7 +5593,7 @@
             "title": "iOS Building Blocks",
             "author": "Scott Smith",
             "site_url": "https://podcasters.spotify.com/pod/show/scottsmithdev",
-            "feed_url": "https://anchor.fm/s/b24b688/podcast/rss"
+            "feed_url": "https://www.spreaker.com/show/5865659/episodes/feed"
           },
           {
             "title": "iOS Dev Break",
