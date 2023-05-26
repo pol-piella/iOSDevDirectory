@@ -2431,7 +2431,7 @@
             "title": "Lord Codes",
             "author": "Andrew Lord",
             "site_url": "https://www.lordcodes.com/ios/",
-            "feed_url": "https://www.lordcodes.com/feeds/ios.xml",
+            "feed_url": "https://www.lordcodes.com/ios/rss.xml",
             "twitter_url": "https://twitter.com/lordcodes"
           },
           {
@@ -4491,8 +4491,8 @@
           {
             "title": "XCBlog",
             "author": "Shashikant Jagtap",
-            "site_url": "http://shashikantjagtap.net/",
-            "feed_url": "http://shashikantjagtap.net/feed/",
+            "site_url": "http://shashikantjagtap.net/cgi-sys/suspendedpage.cgi",
+            "feed_url": "http://shashikantjagtap.net/cgi-sys/suspendedpage.cgi",
             "twitter_url": "https://twitter.com/Shashikant86"
           },
           {
@@ -5593,7 +5593,7 @@
             "title": "iOS Building Blocks",
             "author": "Scott Smith",
             "site_url": "https://podcasters.spotify.com/pod/show/scottsmithdev",
-            "feed_url": "https://anchor.fm/s/b24b688/podcast/rss"
+            "feed_url": "https://www.spreaker.com/show/5865659/episodes/feed"
           },
           {
             "title": "iOS Dev Break",
@@ -5619,7 +5619,7 @@
             "title": "More Than Just Code",
             "author": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
             "site_url": "http://www.mtjc.fm",
-            "feed_url": "https://feeds.fireside.fm/mtjc/rss",
+            "feed_url": "https://feeds.acast.com/public/shows/646bd59620e0700011d52174",
             "twitter_url": "https://twitter.com/mtjc_podcast"
           },
           {
