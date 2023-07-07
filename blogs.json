@@ -1881,7 +1881,7 @@
           {
             "title": "ignore the code",
             "author": "Lukas Mathis",
-            "site_url": "http://ignorethecode.net/blog/",
+            "site_url": "https://ignorethecode.net/blog/",
             "feed_url": "http://feeds.feedburner.com/IgnoreTheCode"
           },
           {
@@ -2431,7 +2431,7 @@
             "title": "Lord Codes",
             "author": "Andrew Lord",
             "site_url": "https://www.lordcodes.com/ios/",
-            "feed_url": "https://www.lordcodes.com/feeds/ios.xml",
+            "feed_url": "https://www.lordcodes.com/ios/rss.xml",
             "twitter_url": "https://twitter.com/lordcodes"
           },
           {
@@ -2458,7 +2458,7 @@
             "title": "Luke Smith’s Blog",
             "author": "Luke Smith",
             "site_url": "https://www.lukecsmith.co.uk/",
-            "feed_url": "http://www.lukecsmith.co.uk/feed/",
+            "feed_url": "https://www.lukecsmith.co.uk/feed/",
             "twitter_url": "https://twitter.com/lukesmithapps"
           },
           {
@@ -3258,8 +3258,8 @@
           {
             "title": "Pedro Piñera’s Blog",
             "author": "Pedro Piñera",
-            "site_url": "http://ppinera.es",
-            "feed_url": "http://ppinera.es/feed.xml",
+            "site_url": "https://ppinera.es/",
+            "feed_url": "https://ppinera.es/feed.xml",
             "twitter_url": "https://twitter.com/pepicrft"
           },
           {
@@ -4333,8 +4333,8 @@
           {
             "title": "Under The Bridge",
             "author": "Alex Curylo",
-            "site_url": "http://94.237.75.63/",
-            "feed_url": "http://94.237.75.63/",
+            "site_url": "https://www.tunisienumerique.com/wp-content/themes/panen77/",
+            "feed_url": "https://www.tunisienumerique.com/wp-content/themes/panen77/",
             "twitter_url": "https://twitter.com/trollwerks"
           },
           {
@@ -4885,8 +4885,8 @@
           {
             "title": "Basil Salad Software",
             "author": "Basil Salad Team",
-            "site_url": "https://basilsalad.com/tag/ios/",
-            "feed_url": "https://basilsalad.com/tag/ios/feed/",
+            "site_url": "https://basilsalad.com/wp-admin/install.php",
+            "feed_url": "https://basilsalad.com/wp-admin/install.php",
             "twitter_url": "https://twitter.com/BasilSalad"
           },
           {
@@ -5593,7 +5593,7 @@
             "title": "iOS Building Blocks",
             "author": "Scott Smith",
             "site_url": "https://podcasters.spotify.com/pod/show/scottsmithdev",
-            "feed_url": "https://anchor.fm/s/b24b688/podcast/rss"
+            "feed_url": "https://www.spreaker.com/show/5865659/episodes/feed"
           },
           {
             "title": "iOS Dev Break",
@@ -5619,7 +5619,7 @@
             "title": "More Than Just Code",
             "author": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
             "site_url": "http://www.mtjc.fm",
-            "feed_url": "https://feeds.fireside.fm/mtjc/rss",
+            "feed_url": "https://feeds.acast.com/public/shows/646bd59620e0700011d52174",
             "twitter_url": "https://twitter.com/mtjc_podcast"
           },
           {
