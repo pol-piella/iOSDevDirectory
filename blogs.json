@@ -760,8 +760,8 @@
           {
             "title": "Bret Victor’s Blog",
             "author": "Bret Victor",
-            "site_url": "http://worrydream.com/",
-            "feed_url": "http://worrydream.com/feed.xml",
+            "site_url": "https://worrydream.com/",
+            "feed_url": "https://worrydream.com/feed.xml",
             "twitter_url": "https://twitter.com/worrydream"
           },
           {
@@ -1939,8 +1939,8 @@
           {
             "title": "Hwee-Boon Yar’s Blog",
             "author": "Hwee-Boon Yar",
-            "site_url": "http://hboon.com",
-            "feed_url": "http://hboon.com/feed/",
+            "site_url": "https://hboon.com/",
+            "feed_url": "https://hboon.com/feed/",
             "twitter_url": "https://twitter.com/hboon"
           },
           {
@@ -4775,8 +4775,8 @@
           {
             "title": "Writing on Tablets",
             "author": "John Pollard",
-            "site_url": "https://writingontablets.com/",
-            "feed_url": "https://writingontablets.com/atom.xml",
+            "site_url": "https://bravelocation.com/blog",
+            "feed_url": "https://bravelocation.com/atom.xml",
             "twitter_url": "https://twitter.com/yeltzland"
           },
           {
@@ -5470,8 +5470,8 @@
           {
             "title": "Itty Bitty Apps Blog",
             "author": "Itty Bitty Apps Team",
-            "site_url": "https://www.ittybittyapps.com/blog/",
-            "feed_url": "https://www.ittybittyapps.com/blog/index.xml",
+            "site_url": "https://mantelgroup.com.au",
+            "feed_url": "https://mantelgroup.com.au",
             "twitter_url": "https://twitter.com/ittybittyapps"
           },
           {
@@ -5601,7 +5601,7 @@
           {
             "title": "Remotion Blog",
             "author": "Remotion Team",
-            "site_url": "http://multi.app/blog",
+            "site_url": "https://multi.app/blog",
             "feed_url": "https://updates.remotion.com/rss/blog.xml",
             "twitter_url": "https://twitter.com/remotionco"
           },
