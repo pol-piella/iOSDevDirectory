@@ -642,8 +642,8 @@
           {
             "title": "Basem Emara’s Blog",
             "author": "Basem Emara",
-            "site_url": "http://basememara.com",
-            "feed_url": "http://basememara.com/feed/",
+            "site_url": "https://emara.io",
+            "feed_url": "https://emara.io",
             "twitter_url": "https://twitter.com/basememara"
           },
           {
@@ -760,8 +760,8 @@
           {
             "title": "Bret Victor’s Blog",
             "author": "Bret Victor",
-            "site_url": "http://worrydream.com/",
-            "feed_url": "http://worrydream.com/feed.xml",
+            "site_url": "https://worrydream.com/",
+            "feed_url": "https://worrydream.com/feed.xml",
             "twitter_url": "https://twitter.com/worrydream"
           },
           {
@@ -1939,8 +1939,8 @@
           {
             "title": "Hwee-Boon Yar’s Blog",
             "author": "Hwee-Boon Yar",
-            "site_url": "http://hboon.com",
-            "feed_url": "http://hboon.com/feed/",
+            "site_url": "https://hboon.com/",
+            "feed_url": "https://hboon.com/feed/",
             "twitter_url": "https://twitter.com/hboon"
           },
           {
@@ -4616,7 +4616,7 @@
             "title": "Ufuk's Blog",
             "author": "Ufuk Canli",
             "site_url": "https://ufukcanli.com",
-            "feed_url": "https://ufukcanli.com/rss.xml"
+            "feed_url": "https://ufukcanli.com/rss.xml/"
           },
           {
             "title": "Umberto Raimondi’s Blog",
@@ -4775,8 +4775,8 @@
           {
             "title": "Writing on Tablets",
             "author": "John Pollard",
-            "site_url": "https://writingontablets.com/",
-            "feed_url": "https://writingontablets.com/atom.xml",
+            "site_url": "https://bravelocation.com/blog",
+            "feed_url": "https://bravelocation.com/atom.xml",
             "twitter_url": "https://twitter.com/yeltzland"
           },
           {
@@ -5470,8 +5470,8 @@
           {
             "title": "Itty Bitty Apps Blog",
             "author": "Itty Bitty Apps Team",
-            "site_url": "https://www.ittybittyapps.com/blog/",
-            "feed_url": "https://www.ittybittyapps.com/blog/index.xml",
+            "site_url": "https://mantelgroup.com.au",
+            "feed_url": "https://mantelgroup.com.au",
             "twitter_url": "https://twitter.com/ittybittyapps"
           },
           {
@@ -5601,7 +5601,7 @@
           {
             "title": "Remotion Blog",
             "author": "Remotion Team",
-            "site_url": "http://multi.app/blog",
+            "site_url": "https://multi.app/blog",
             "feed_url": "https://updates.remotion.com/rss/blog.xml",
             "twitter_url": "https://twitter.com/remotionco"
           },
@@ -5642,8 +5642,8 @@
           {
             "title": "Runtastic Tech Blog",
             "author": "Runtastic iOS Devs",
-            "site_url": "https://www.runtastic.com/blog/en/tag/ios",
-            "feed_url": "https://www.runtastic.com/blog/en/tag/ios/feed",
+            "site_url": "https://www.adidas.com/us/blog",
+            "feed_url": "https://www.adidas.com/us/blog",
             "twitter_url": "https://twitter.com/Runtastic"
           },
           {
@@ -5888,7 +5888,7 @@
             "title": "iPhreaks",
             "author": "Jaim Zuber, Andrew Madsen, Erica Sadun and Gui Rambo",
             "site_url": "https://topenddevs.com/podcasts/iphreaks",
-            "feed_url": "https://feeds.redcircle.com/10388ad5-937c-49ef-a8ff-fc59f8214fbe",
+            "feed_url": "https://www.spreaker.com/show/6102052/episodes/feed",
             "twitter_url": "https://twitter.com/iphreaks"
           },
           {
@@ -6693,8 +6693,8 @@
           {
             "title": "NSHipster中国",
             "author": "NSHipster",
-            "site_url": "https://nshipster.cn",
-            "feed_url": "https://nshipster.cn/feed.xml",
+            "site_url": "https://www.ffcag2.com:9300/",
+            "feed_url": "https://www.ffcag2.com:9300/",
             "weibo_url": "https://weibo.com/nshipster"
           },
           {
